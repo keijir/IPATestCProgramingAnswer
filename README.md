@@ -57,7 +57,7 @@ ITSSによるスキルレベルは２になります。
 ||春期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H23年度|秋期|問8|解答|ソース|実行||
-|||問9|解答|(https://gist.github.com/keijir/4a134d1cbe508ebff6c3e2d68f0a745d)[設問1],(https://gist.github.com/keijir/abd0166640d9722e8923fdfb6e974f5a)[設問2]|(https://paiza.io/projects/-Nsy61c3RRBxQqi9JhFZVg)[設問1](https://paiza.io/projects/OULCPL2SHygX19QOglhe0g),[設問2]||
+|||問9|解答|[設問1](https://gist.github.com/keijir/4a134d1cbe508ebff6c3e2d68f0a745d),[設問2](https://gist.github.com/keijir/abd0166640d9722e8923fdfb6e974f5a)|[設問1](https://paiza.io/projects/-Nsy61c3RRBxQqi9JhFZVg),[設問2](https://paiza.io/projects/OULCPL2SHygX19QOglhe0g)||
 ||特別|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H22年度|秋期|問8|解答|ソース|実行||
