@@ -41,8 +41,8 @@ ITSSによるスキルレベルは２になります。
 |H28年度|春期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H27年度|秋期|[問8](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_ans.pdf)|[ソース](https://gist.github.com/keijir/55ac02277c0b24c1168a7c872ae16898)|[実行](https://paiza.io/gists/55ac02277c0b24c1168a7c872ae16898)|Boyer-Moore-Horspool 法による文字列の照合|
-|||[問9](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_ans.pdf)|ソース|実行||
-||春期|[問8](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_ans.pdf)|ソース|実行||
+|||[問9](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_ans.pdf)|ソース|実行|入退室状況の印字|
+||春期|[問8](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_ans.pdf)|ソース|実行|クイックソートを応用した選択アルゴリズム|
 |||[問9](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_1/2015h27h_fe_pm_ans.pdf)|[ソース](https://gist.github.com/keijir/11290f378b5d6efc0ed72946eeab56bb)|[実行](https://paiza.io/projects/abCM7mCetaQV0rFB3YtObw)|換字式暗号|
 |H26年度|秋期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
@@ -57,7 +57,7 @@ ITSSによるスキルレベルは２になります。
 ||春期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H23年度|秋期|問8|解答|ソース|実行||
-|||問9|解答|[設問1](https://gist.github.com/keijir/4a134d1cbe508ebff6c3e2d68f0a745d),[設問2](https://gist.github.com/keijir/abd0166640d9722e8923fdfb6e974f5a)|[設問1](https://paiza.io/projects/-Nsy61c3RRBxQqi9JhFZVg),[設問2](https://paiza.io/projects/OULCPL2SHygX19QOglhe0g)||
+|||問9|解答|[設問1](https://gist.github.com/keijir/4a134d1cbe508ebff6c3e2d68f0a745d),[設問2](https://gist.github.com/keijir/abd0166640d9722e8923fdfb6e974f5a)|[設問1](https://paiza.io/projects/-Nsy61c3RRBxQqi9JhFZVg),[設問2](https://paiza.io/projects/OULCPL2SHygX19QOglhe0g)|循環小数の出力|
 ||特別|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H22年度|秋期|問8|解答|ソース|実行||
@@ -67,11 +67,11 @@ ITSSによるスキルレベルは２になります。
 |H21年度|秋期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 ||春期|問8|解答|ソース|実行||
-|||問9|解答|[ソース](https://gist.github.com/keijir/17cf1b42fd79b3727533a146e5a5a90d)|[実行](https://paiza.io/projects/DxSBEgqtFRXfVMIG9nuOKg)||
+|||問9|解答|[ソース](https://gist.github.com/keijir/17cf1b42fd79b3727533a146e5a5a90d)|[実行](https://paiza.io/projects/DxSBEgqtFRXfVMIG9nuOKg)|絶対パスへの変換|
 |H20年度|秋期|問6|解答|ソース|実行||
 |||問10|解答|ソース|実行||
 ||春期|問6|解答|ソース|実行||
-|||問04|解答|[ソース](https://gist.github.com/keijir/cb4c213ad1bf4ece7b9124e402517b50)|[実行](https://paiza.io/projects/PC5ewtH5dWcOPcHAqM18nA)||
+|||問04|解答|[ソース](https://gist.github.com/keijir/cb4c213ad1bf4ece7b9124e402517b50)|[実行](https://paiza.io/projects/PC5ewtH5dWcOPcHAqM18nA)|リストの作成|
 |||問10|解答|ソース|実行||
 |H19年度|秋期|問6|解答|ソース|実行||
 |||問10|解答|ソース|実行||
