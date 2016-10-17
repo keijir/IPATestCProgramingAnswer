@@ -38,7 +38,9 @@ ITSSによるスキルレベルは２になります。
 
 |年度|期|問題|解答|ソース|実行|出題内容|
 |----|----|----|----|----|----|----|
-|H28年度|春期|問8|解答|ソース|実行||
+|H28年度|秋期|問8|解答|ソース|実行||
+|||問9|解答|[ソース](https://gist.github.com/keijir/9820b54ac9982eb3269e776e03bddc34)|[実行](https://paiza.io/projects/7gHhRnwHU4u0xTCE_DPEfg)|フラクタル図形の描画|
+||春期|問8|解答|ソース|実行||
 |||問9|解答|ソース|実行||
 |H27年度|秋期|[問8](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_ans.pdf)|[ソース](https://gist.github.com/keijir/55ac02277c0b24c1168a7c872ae16898)|[実行](https://paiza.io/gists/55ac02277c0b24c1168a7c872ae16898)|Boyer-Moore-Horspool 法による文字列の照合|
 |||[問9](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_qs.pdf)|[解答](https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2015h27_2/2015h27a_fe_pm_ans.pdf)|ソース|実行|入退室状況の印字|
